@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @laladna, a recent graduate with a bachelor's degree in Industrial Engineering and 6+ months of experience as a data scientist
+- 👋 Hi there, I’m @laladna, a junior Data Analyst with 1+ year of work experience
 - 👀 I’m interested in solving the real-world problem by leveraging data science methodologies and skills 
 - 🌱 I’m currently learning Bayesian Statistics, Machine Learning & Statistics, Cloud Computing
 
